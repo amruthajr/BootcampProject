@@ -1,0 +1,8 @@
+Enter the city name: Attingal
+****************
+Weather Stats for - ATTINGAL  || 23 Jun 2021 | 07:53:20 AM
+_______________________________
+Current temperature is: 29.82 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 69 %
+Current wind speed    : 5.43 kmph
